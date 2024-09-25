@@ -1,0 +1,8 @@
+arabic-reshaper
+python-bidi
+wordcloud
+langdetect
+nltk
+transformers 
+tensorflow
+tf-keras
